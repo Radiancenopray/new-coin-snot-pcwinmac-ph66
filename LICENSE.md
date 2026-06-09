@@ -1,4 +1,4 @@
-# 
+# 终极 new coin sniper bot 预设 Mac OS版 | 轻量 new coin sniper bot 预设 PC Windows版。集成 数据解析 和 流动性池扫描，跨平台性能最大化。
 
 
 
